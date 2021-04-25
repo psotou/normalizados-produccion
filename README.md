@@ -1,4 +1,4 @@
-# PROOF OF WORK TO AN AUTOMATIC RUN OF TABLES, UTILS, SPS
+# Proof of work of an automatic run for the creation of tables, utils and sps
 
 Usage:
 
@@ -8,6 +8,6 @@ Usage:
 
 Where,
 
-+ `<server>`: dev, prod, sbx
++ `<server>` &in {dev, prod, sbx}
 + `<process>`: tables, sps, utils
 + `<directoy>`: directory where the .sql files are located
