@@ -8,6 +8,6 @@ Usage:
 
 Where,
 
-+ `<server>` &in {dev, prod, sbx}
-+ `<process>`: tables, sps, utils
++ `<server>` &in; {dev, prod, sbx}
++ `<process>` &in; {tables, sps, utils}
 + `<directoy>`: directory where the .sql files are located
