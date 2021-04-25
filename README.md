@@ -1,4 +1,4 @@
-# Proof of work of an automatic run for the creation of tables, utils and sps
+## Proof of work of an automatic run for the creation of tables, utils and sps
 
 Usage:
 
